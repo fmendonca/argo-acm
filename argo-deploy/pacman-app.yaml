@@ -11,7 +11,7 @@ spec:
   source:
     path: pacman
     repoURL: https://github.com/fmendonca/application-examples.git
-    targetRevision: master
+    targetRevision: main 
   syncPolicy:
     automated:
       selfHeal: true
