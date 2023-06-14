@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: pacman
-    repoURL: https://github.com/avaleror/application-examples.git
+    repoURL: https://github.com/fmendonca/application-examples.git
     targetRevision: master
   syncPolicy:
     automated:
